@@ -1,5 +1,5 @@
 * 🌈 Apaixonada por front-end
-* 🌱 Estudando HTML, CSS, JavaScript e react.
+* 🌱 Estudando HTML, CSS, JavaScript e React.
 
 <div>
   
