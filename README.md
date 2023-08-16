@@ -1,5 +1,5 @@
-. 🌈 Apaixonada por front-end
-. 🌱 Estudando HTML, CSS, JavaScript, react e phyton
+* 🌈 Apaixonada por front-end
+* 🌱 Estudando HTML, CSS, JavaScript e react.
 
 <div>
   
