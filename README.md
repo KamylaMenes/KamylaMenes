@@ -11,12 +11,8 @@
   <p align="center">
     Sou estudante de análise e desenvolvimento de sistemas e entusiasta frontend
   </div>
-
-  <div aling="center">
-    <a href="https://github.com/kamylamenes">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamylamenes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamylamenes&theme=dracula&hide_border=false&&layout=compact"/>
-    </a>
+  <p align="center">
+    Estou estudando as seguintes tecnologias⤵️
   </div>
 
   <div align="center" valign="top"><br>
