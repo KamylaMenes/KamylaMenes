@@ -1,3 +1,6 @@
+. 🌈 Apaixonada por front-end
+. 🌱 Estudando HTML, CSS, JavaScript, react e phyton
+
 <div>
   
   <h1 align="center">
